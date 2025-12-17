@@ -1,0 +1,9 @@
+metric,value
+training_total_time_s,455.1797614097595
+peak_cpu_mem_mb,1422.12109375
+val_R2,0.834738552570343
+val_MAE,0.008862869
+test_R2,0.839294970035553
+test_MAE,0.008861676
+test_inference_total_s,1.8713769912719727
+test_inference_time_per_sample_s,0.0021169422978189736
