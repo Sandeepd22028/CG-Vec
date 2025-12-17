@@ -1,4 +1,4 @@
-Paper Tilte: "CG-Vec: Simpler is Better for Complex Magnetism Modeling"
+Paper Tilte: "CG-Vec: Simpler is Better for Complex Magnetism Modeling."
 cgcnn.ipynb: Crystal Graph Convolutional Neural Network training testing and analysis.
 cgvec: Crystal graph to vector followed by ML model(Random Forest) and analysis.
 computational_efficiency_tests.ipynb: compars computational efficiency of CGCNN and CG-Vec.
